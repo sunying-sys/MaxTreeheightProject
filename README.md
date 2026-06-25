@@ -1,2 +1,2 @@
 # MaxTreeheightProject
-This is the code repository for the Global Maximum Tree Height Project.
+This repository contains the data and code for the Global Maximum Tree Height Project.
